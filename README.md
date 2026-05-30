@@ -15,4 +15,4 @@
 
 - Projetos de estudo organizados por pastas
 - Evolução dos meus estudos em programação
-- Exercícios e projetos em C
+- Projetos em C
