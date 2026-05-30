@@ -6,12 +6,13 @@
 📍 Dourados - MS  
 
 ## Tecnologias que estou aprendendo
+
 - C
 - Git e GitHub
 - VS Code
 
 ## O que você vai encontrar aqui
-- Exercícios e projetos em C
+
 - Projetos de estudo organizados por pastas
 - Evolução dos meus estudos em programação
-
+- Exercícios e projetos em C
