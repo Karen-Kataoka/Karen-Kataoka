@@ -1,16 +1,16 @@
-## Hi there 👋
+  # Olá, eu sou a Karen! 👋
 
-<!--
-**Karen-Kataoka/Karen-Kataoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+   💻 Aprendendo C, Git e GitHub  
+   🚀 Em busca do primeiro estágio na área de tecnologia  
+   📍 Dourados - MS
 
-Here are some ideas to get you started:
+   ## Tecnologias que estou aprendendo
+   - C
+   - Git & GitHub
+   - VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   ## O que você vai encontrar aqui
+   - Exercícios e projetos em C
+   - Projetos de estudo organizados por pastas
+   - Evolução dos meus estudos em programação
