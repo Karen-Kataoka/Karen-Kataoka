@@ -10,6 +10,9 @@
 - C
 - Git e GitHub
 - VS Code
+- HTML
+- CSS
+- Java Script
 
 ## O que você vai encontrar aqui
 
