@@ -1,8 +1,8 @@
   # Olá, eu sou a Karen! 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Aprendendo C, Git, GitHub e VS Code  
-🚀 Em busca do primeiro estágio na área de tecnologia  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha trajetória na área de tecnologia. 
+Este perfil é um espaço para compartilhar meus projetos, meus estudos e minha evolução na programação. 
+Cada repositório representa uma etapa do meu aprendizado e uma oportunidade de desenvolver novas habilidades.
 📍 Dourados - MS  
 
 ## Tecnologias que estou aprendendo
@@ -14,8 +14,8 @@
 - CSS
 - Java Script
 
-## O que você vai encontrar aqui
+## Por aqui você encontrará
 
-- Projetos de estudo organizados por pastas
-- Evolução dos meus estudos em programação
-- Projetos em C
+- Projetos desenvolvidos durante meus estudos
+- Exercícios e práticas de programação
+- Registros da minha evolução na área de tecnologia
